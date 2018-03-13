@@ -74,11 +74,8 @@
     },
     "extra": {
         "symfony": {
-<<<<<<< HEAD
+
             "id": "01C8DD34N0R8PKY60KFEHHQ7W6",
-=======
-            "id": "01C8DBP6F60M5V9VZZH997V3VP",
->>>>>>> romain
             "allow-contrib": false
         }
     }
